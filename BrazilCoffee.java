@@ -1,4 +1,3 @@
-brazil.roast();
 class BrazilCoffee {
 String origin;
 BrazilCoffee(String o){
@@ -14,5 +13,3 @@ public void grind() {
 System.out.println("grinding.."+origin);
 }
 }
-BrazilCoffee brazil=new BrazilCoffee("Brazil");
-brazil.roast();
