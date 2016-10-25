@@ -9,6 +9,7 @@ public class DrawTriangle {
     }
   }
   public static void main(String[] args) {
-    drawTriangle(100);
+    DrawTriangle t1=new DrawTriangle();
+    t1.drawTriangle(100);
   }
 }

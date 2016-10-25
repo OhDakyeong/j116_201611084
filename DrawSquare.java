@@ -8,4 +8,8 @@ public class DrawSquare{
       t1.right(90);
     }
   }
+  public static void main(String[] args) {
+    DrawSquare t1=new DrawSquare();
+    t1.drawSquare(100);
+  }
 }

@@ -9,6 +9,7 @@ public class DrawStar {
     }
   }
   public static void main(String[] args) {
-    drawStar(100);
+    DrawStar t1=new DrawStar();
+    t1.drawStar(100);
   }
 }

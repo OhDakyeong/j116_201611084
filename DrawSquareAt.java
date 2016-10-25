@@ -12,6 +12,7 @@ public class DrawSquareAt{
     }
   }
   public static void main(String[] args) {
-    drawSquare(100,-100,50);
+    DrawSquareAt t1=new DrawSquareAt();
+    t1.drawSquareAt(100,-100,50);
   }
 }
